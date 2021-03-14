@@ -1,0 +1,6 @@
+print("I finished my homework")
+x=["I hope"]
+def cool(cools):
+  print(x)
+
+cool(x)
